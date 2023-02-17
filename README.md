@@ -1,3 +1,4 @@
+# detailed overview of the app development part of the project
 App User Interface:<br>
 Designed the user interface of the Flutter app to include a camera button that can be used to take a real-time image.
 Implemented a preview screen that displays the captured image to the user and a button to send the image to the Flask API for object detection.
